@@ -1,4 +1,4 @@
-- 👋 Hi I'm DJ and I want to become a programmer!
+# 👋 Hi I'm DJ and I want to become a programmer!
 
 \
 Some languages I know :arrow_down:
